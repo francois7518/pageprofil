@@ -1,0 +1,75 @@
+h1 {
+	text-decoration: none;
+	background-color: darkblue;
+	color: yellow;
+}
+
+h2 {
+	background-color: darkblue;
+	color: yellow;
+}
+
+img {
+  width: 400px;
+  height: 350px;
+  border: 2px solid darkblue;
+  border-radius: 50%;
+  margin: auto;
+}
+
+div {
+  background-color: white;
+  width: 425px;
+  margin: auto;
+  padding: 30px;
+  border-radius: 10px;
+  box-shadow: 0px 0px 30px darkblue;
+}
+
+#insta {
+	color: darkblue;
+}
+#insta:hover {
+	color: white;
+}
+#twitter {
+	color: darkblue;
+}
+#twitter:hover{
+	color: white;
+}
+#facebook{
+	color: darkblue;
+}
+#twitter:hover{
+	color: white;
+}
+
+#introduction {
+	text-align: center;
+}
+
+#lien-blog{
+	background-color: darkblue;
+	color: yellow;
+	text-decoration: none;
+	padding: 8px;
+} 
+#lien-blog:hover{
+	color: white;
+}
+#container{ 
+	height: 150px;
+	display: flex;
+	justify-content: space-around;
+	font-size: 40px;
+	align-items: center;
+}
+
+ul{
+  list-style: none;
+}
+
+body{
+	font-family: 'Poppins', sans-serif;
+} 
